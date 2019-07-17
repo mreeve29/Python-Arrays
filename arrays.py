@@ -1,3 +1,7 @@
+# arrays.py
+# Author: Michael Reeve
+# Date: 7/16/19
+
 def sortArray(arr):
     n = len(arr)-1
     for i in range(0, n):
